@@ -10,3 +10,6 @@ just tried header tags
 ``` javascript
 const name = "Alan Joy";
 ```
+- [ ] I'm Present
+- [x] Active from now on!
+- [x] Hey i am Alan
